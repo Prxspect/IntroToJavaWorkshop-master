@@ -26,7 +26,7 @@ r2d2.move(200);
 r2d2.turn(360/5);  }
     	r2d2.sparkle();
     	r2d2.penDown();
-    	r2d2.move(100)
+    	r2d2.move(100);
     		// 7. Change steps 4 and 5 to draw a different shape (e.g. triangle (3-sides), pentagon (5-sides), decagon (10-sides)).
    
     }
